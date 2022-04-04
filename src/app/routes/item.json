@@ -1,0 +1,31 @@
+{
+    "_id": "6173d6ecb1c3d8df6cb2528d",
+    "IDUser": "616fe70ced1f0707591ec46d",
+    "cartItems": [
+        {
+            "IDproduct": "619a7b665bbe6ead866d508a",
+            "quantity": 1,
+            "title": "Sữa bột cho chó Boramy",
+            "price": 165000,
+            "_id": "61acbf15abe17aee1092dee5"
+        },
+        {
+            "IDproduct": "616ebae4cfd5d32017d3e535",
+            "quantity": 1,
+            "title": "Sữa tắm cho chó Pug – Perfect Coat",
+            "price": 20,
+            "_id": "61adbbe38459641461637d12"
+        },
+        {
+            "IDproduct": "616fd5bca57e22e9d8d7ba4c",
+            "quantity": 1,
+            "title": "Sữa tắm cho chó Pug – Perfect Coat",
+            "price": 20,
+            "_id": "61adbbe7080430c3c784f87d"
+        }
+    ],
+    "total": 165040,
+    "createdAt": "2021-10-23T09:33:32.239Z",
+    "updatedAt": "2021-12-06T07:29:43.836Z",
+    "__v": 0
+}
